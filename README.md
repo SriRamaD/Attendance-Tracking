@@ -11,5 +11,8 @@ Below are the steps to execute the project:
 3. Then in your terminal go to the directory: Attendance-Tracking
 4. Then redirect to src folder
 5. Then run the following commands
+   
    javac Main.java
+
+
    java Main
